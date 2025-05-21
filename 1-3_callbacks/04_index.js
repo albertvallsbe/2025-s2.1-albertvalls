@@ -7,5 +7,5 @@ const callable = (parameter) => {
 
 const nombres = [10, 20, 30];
 const lletres = ["a", "b", "v"];
-processarElements(nombres, callable);
-processarElements(lletres, callable);
+printNames(nombres, callable);
+printNames(lletres, callable);
